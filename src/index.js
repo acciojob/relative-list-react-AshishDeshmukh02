@@ -2,7 +2,7 @@ import React from "react";
 import ReactDOM from "react-dom";
 import App from "./components/App";
 
-ReactDOM.render(<App />, document.getElementById("root"));
+
 
 
 function RelativeList() {
@@ -22,3 +22,5 @@ function RelativeList() {
 }
 
 export default RelativeList;
+
+ReactDOM.render(<App />, document.getElementById("root"));
