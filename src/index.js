@@ -8,8 +8,8 @@ ReactDOM.render(<App />, document.getElementById("root"));
 function RelativeList() {
     const relatives = [
         { id: 1, name: 'Uncle Bharat' },
-        { id: 2, name: 'Aunt Saloni' },
-        { id: 3, name: 'Cousin Krish' }
+        { id: 2, name: 'Aunt Priya' },
+        { id: 3, name: 'Cousin Kish' }
     ];
 
     return (
